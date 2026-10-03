@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Nexora">
+  <defs>
+    <linearGradient id="n1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#8b7cff"/><stop offset="1" stop-color="#4f3fd6"/></linearGradient>
+    <radialGradient id="n2" cx=".35" cy=".3" r=".75"><stop offset="0" stop-color="#d8fff3"/><stop offset=".45" stop-color="#5fd9b6"/><stop offset="1" stop-color="#21a383"/></radialGradient>
+  </defs>
+  <rect width="512" height="512" rx="120" fill="#f6f5ff"/>
+  <rect x="104" y="96" width="232" height="300" rx="28" fill="#ffffff" stroke="#d9d4ff" stroke-width="6"/>
+  <path d="M140 150h140M140 186h160M140 222h120" stroke="#b9b1ff" stroke-width="14" stroke-linecap="round"/>
+  <rect x="196" y="236" width="220" height="180" rx="28" fill="url(#n1)"/>
+  <path d="M196 296h220M196 356h220M269 236v180M343 236v180" stroke="#ffffff" stroke-opacity=".45" stroke-width="5"/>
+  <circle cx="380" cy="150" r="52" fill="url(#n2)"/>
+  <path d="M356 136a28 28 0 0 1 20-20" fill="none" stroke="#fff" stroke-width="10" stroke-linecap="round" opacity=".85"/>
+</svg>
